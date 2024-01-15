@@ -4,7 +4,7 @@ _BetaFusion_ is a multi-focus image dataset, which contains 20 image pairs.
 The all images are collected with an Sony ILCE6000 camera, and the images are well registered.
 
 # Raw data
-We also provide the source images with key parameters, see <http://ss>
+We also provide the source images with key parameters, see [GoogleDrive](https://drive.google.com/file/d/1p6LeaNJf6F6qqi96Cyvm93Nql3DVKQ2o/view?usp=sharing)
 
 the raw data are named as: seq\_\[a|b|c|d\]\_distance\_aperture.jpg.
 
