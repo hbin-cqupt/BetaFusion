@@ -19,3 +19,11 @@ seq is the sequence of the image,
 "distance" is the distance between focus point and the camera,
 
 "aperture" is the aperture used when taking the photo.
+
+# citation
+If you think our dataset is helpful to you, you can consider citing our work:
+@inproceedings{focus_stacking,
+	title = Focus Stacking with High Fidelity and Superior Visual Effects,
+	booktitle = {Proceedings of the {AAAI} {Conference} on {Artificial} {Intelligence}},
+	author = {Bo Liu, Bin Hu, Xiuli Bi, Weisheng Li, Bin Xiao}
+}
