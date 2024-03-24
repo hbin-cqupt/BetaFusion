@@ -21,7 +21,9 @@ seq is the sequence of the image,
 "aperture" is the aperture used when taking the photo.
 
 # citation
+
 If you think our dataset is helpful to you, you can consider citing our work:
+
 @inproceedings{focus_stacking,
 	title = Focus Stacking with High Fidelity and Superior Visual Effects,
 	booktitle = {Proceedings of the {AAAI} {Conference} on {Artificial} {Intelligence}},
